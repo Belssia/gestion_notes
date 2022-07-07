@@ -1,1 +1,1 @@
-# simple-jeu-jee
+# application de gestion des notes en utilisant Spring boot
